@@ -7,3 +7,6 @@
 [submodule "pos_jquery/wangzhongbi/Pos-jquery"]
 	path = pos_jquery/wangzhongbi/Pos-jquery
 	url = https://github.com/wangzhongbi/Pos-jquery.git
+[submodule "pos_simple/zhaopeng"]
+	path = pos_simple/zhaopeng
+	url = https://github.com/zhaopengn/pos.git
