@@ -4,3 +4,9 @@
 [submodule "pos_simple/zhang-hang/pos"]
 	path = pos_simple/zhang-hang/pos
 	url = https://github.com/littletwoblack/pos.git
+[submodule "pos_simple/wangzhongbi/POS"]
+	path = pos_simple/wangzhongbi/POS
+	url = https://github.com/wangzhongbi/POS.git
+[submodule "pos_jquery/wangzhongbi/Pos-jquery"]
+	path = pos_jquery/wangzhongbi/Pos-jquery
+	url = https://github.com/wangzhongbi/Pos-jquery.git
