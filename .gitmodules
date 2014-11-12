@@ -1,3 +1,6 @@
 [submodule "pos_simple/feng-yang-qi-jun/pos3"]
 	path = pos_simple/feng-yang-qi-jun/pos3
 	url = https://github.com/wfsovereign/pos3.git
+[submodule "pos_simple/wangzhongbi/POS"]
+	path = pos_simple/wangzhongbi/POS
+	url = https://github.com/wangzhongbi/POS.git
