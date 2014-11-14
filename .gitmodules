@@ -16,3 +16,6 @@
 [submodule "pos_simple/zengpuyang"]
 	path = pos_simple/zengpuyang
 	url = https://github.com/zengpuyang/pos.git
+[submodule "pos_simple/chensen"]
+	path = pos_simple/chensen
+	url = https://github.com/chansir1995/pos.git
