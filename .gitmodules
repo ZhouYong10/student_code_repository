@@ -13,3 +13,6 @@
 [submodule "pos_simple/zhaopeng"]
 	path = pos_simple/zhaopeng
 	url = https://github.com/zhaopengn/pos.git
+[submodule "pos_simple/zengpuyang"]
+	path = pos_simple/zengpuyang
+	url = https://github.com/zengpuyang/pos.git
